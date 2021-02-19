@@ -24,7 +24,7 @@ we'll be extending our Flicks app to allow users to get more information about a
 ### App Walkthrough GIF
 
 
-<img src="https://recordit.co/yz30pDuqhT" width=250><br>
+<img src="http://g.recordit.co/yz30pDuqhT.gif" width=250><br>
 
 ### Notes
 
